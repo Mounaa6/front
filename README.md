@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+Temp 1 : Authentification
+                Inscription
+Temp 2 : Dashboard : (for admin)
+                              Crud Articles
+                              Crud users
+                              Crud categories
+
+	Guest
+Temp 3 :Blog : (for guest)
+                   List Articles
+                   Page article (comment & like by user)
+                   Search
+                   List of categories
+
+Exple interface wordpress : https://chehir.tn/
+
